@@ -14,8 +14,6 @@
     - Running Bar Graph
     - Visualization on Canada provinces
 
-- Clustering
-    - K-means
 
 
 Name: Shubham Bishnoi
