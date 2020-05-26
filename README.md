@@ -19,4 +19,7 @@
     - Sudoku Solver
 
 
+### Currently working on
 
+- SQL Relational Database and Queries
+- Clustering
