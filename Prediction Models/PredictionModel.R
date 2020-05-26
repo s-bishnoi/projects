@@ -1,5 +1,6 @@
-## Loading H2o Library
+# Happiness Prediction Model
 
+## Loading H2o Library
 library(h2o)
 h2o.init(nthreads = -1, max_mem_size = "8G")
 
@@ -140,8 +141,5 @@ for (i in 1:NROW(df)){
   }
 }
 sum/NROW(df)
-  
-#0.7113897
-#0.1574863
-#0.1311239
+
 
